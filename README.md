@@ -1,5 +1,5 @@
 # Project 3: Linux Server Configuration & Web Application Deployment
-This web application provides a streamlined, user-friendly platform for tracking time billing and generating invoices.
+
 
 ### _Public IP Address:_
 ```34.237.143.85```

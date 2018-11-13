@@ -8,7 +8,9 @@
 ```{ADD HERE}```
 
 ### _Installed Software:_
-```{ADD HERE}```
+- _Apache2_
+- _mod_wsgi_
+- _PostgreSQL_
 
 ### _Third-Party Resources:_
 ```{ADD HERE}```

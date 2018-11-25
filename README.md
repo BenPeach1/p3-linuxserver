@@ -17,6 +17,14 @@ has been given sudo access. Furthermore, the server has been locked down
 - _mod_wsgi_
 - _PostgreSQL_
 
+### _Third-Party Resources:_
+- __Flask__ (Flask, render_template, request, redirect, jsonify, url_for, flash,
+  make_response, session)
+- __SQLAlchemy__ (create_engine, asc, func, sessionmaker)
+- __Flask_WTF__ (Form, StringField, TextField, TextAreaField, InputRequired)
+- __Functools__ (wraps)
+- __DateTime__
+
 ### _Server Configuration Summary_
 - 'grader' login created & given sudo access
 - root login disabled
